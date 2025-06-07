@@ -13,5 +13,4 @@ En este proyecto diseñé una página web estática, representando una marca de 
 [🔗 Ver proyecto en Netlify](http://classy-marzipan-a6eca4.netlify.app/)
 
 ### 📸 Captura del proyecto:
-![Captura del sitio Carved Rock Fitness](./ruta/a/tu/captura.png)
-![Galería](ruta/a/tu/captura2.png)
+![Captura del sitio Carved Rock Fitness](./469shots_so.png)
